@@ -3,8 +3,8 @@ import { Container, Row, Col, Badge } from 'react-bootstrap';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { FiExternalLink, FiGithub } from 'react-icons/fi';
-import flickerImg from '../assets/flicker_project.png';
-import dashboardImg from '../assets/dashboard_project.png';
+import flickerImg from '../assets/flickerImg.png';
+import dashboardImg from '../assets/dashboardImg.png';
 
 const projectsData = [
   {
