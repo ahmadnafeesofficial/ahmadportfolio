@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { FiExternalLink, FiGithub } from 'react-icons/fi';
 import flickerImg from '../assets/flickerImg.png';
-import dashboardImg from '../assets/dashboardImg.png';
+import dashboardimg from '../assets/dashboardimg.png';
 
 const projectsData = [
   {
