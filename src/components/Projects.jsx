@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { FiExternalLink, FiGithub } from 'react-icons/fi';
 import flickerImg from '../assets/flickerImg.png';
-import dashboardimg from '../assets/dashboardimg.png';
+import dashboardImg from '../assets/dashboardImg.png';
 
 const projectsData = [
   {
@@ -22,7 +22,7 @@ const projectsData = [
     id: 2,
     title: 'Code Z ',
     category: 'JavaScript',
-    image: dashboardimg,
+    image: dashboardImg,
     description: 'Code Z is a digital solution providing agency working with a collabration with me .',
     features: ['Theme Toggle Switcher', 'Resposive ', 'team collabration'],
     tags: ['JavaScript ES6+', 'CSS ', 'HTML5', "React"],
