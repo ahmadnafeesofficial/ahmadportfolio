@@ -82,7 +82,7 @@ const Projects = () => {
             />
             <p className="lead text-secondary">
               A curated list of applications I've developed, showing React integrations,
-              responsive web layout creation, and clean code principles.
+              responsive web layout Creation, and clean code principles.
             </p>
           </Col>
         </Row>
