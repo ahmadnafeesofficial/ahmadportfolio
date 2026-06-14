@@ -22,7 +22,7 @@ const projectsData = [
     id: 2,
     title: 'Code Z ',
     category: 'JavaScript',
-    image: dashboardImg,
+    image: dashboardimg,
     description: 'Code Z is a digital solution providing agency working with a collabration with me .',
     features: ['Theme Toggle Switcher', 'Resposive ', 'team collabration'],
     tags: ['JavaScript ES6+', 'CSS ', 'HTML5', "React"],
